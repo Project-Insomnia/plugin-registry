@@ -1,6 +1,6 @@
 [
     {
-        "source": "Community",
-        "manifest": "https://raw.githubusercontent.com/CX330Blake/Insomnia-C2-Rose-Pine/refs/heads/main/plugin.json"
+        "source": "Official",
+        "manifest": "https://raw.githubusercontent.com/project-insomnia/insomnia-c2-official-themes/refs/heads/main/plugin.json"
     }
 ]
